@@ -3,5 +3,5 @@ metricbeat.config.modules:
   reload.enabled: true
 
 output.elasticsearch:
-  protocol: "https"
+  protocol: "http"
   hosts: ["itscelk.local:9200"]
