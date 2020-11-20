@@ -4,7 +4,4 @@ heartbeat.config.monitors:
 
 output.elasticsearch:
   protocol: "https"
-  hosts: [hostname]
-  ssl.enabled: true
-  username: <USERNAME>
-  password: <PASSWORD>
+  hosts: ["itscelk.local:9200"]
