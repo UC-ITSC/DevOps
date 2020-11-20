@@ -1,0 +1,1 @@
+Resources: https://www.elastic.co/guide/en/beats/heartbeat/current/running-on-docker.html

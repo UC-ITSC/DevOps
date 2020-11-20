@@ -1,0 +1,4 @@
+version: "3.8"
+services:
+  1. heartbeat configuration
+  2. metricbeat configuration

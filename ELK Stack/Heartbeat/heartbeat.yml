@@ -1,0 +1,10 @@
+heartbeat.config.monitors:
+  path: ${path.config}/monitors.d/*.yml
+  reload.enabled: true
+
+output.elasticsearch:
+  protocol: "https"
+  hosts: [hostname]
+  ssl.enabled: true
+  username: <USERNAME>
+  password: <PASSWORD>
